@@ -78,7 +78,7 @@ analytics:
 # Site Author
 author:
   name             : "wenyuan"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "https://avatars1.githubusercontent.com/u/28653235"
   bio              : "别问我是谁"
   location         : 
   email            : "liuwenyuanbackup@gmail.com"
