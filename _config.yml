@@ -77,19 +77,19 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Name"
+  name             : "wenyuan"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
-  uri              :
+  bio              : "别问我是谁"
+  location         : 
+  email            : "liuwenyuanbackup@gmail.com"
+  uri              : "dobby233liu.github.io"
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
   facebook         :
   foursquare       :
-  github           :
+  github           : "dobby233liu"
   gitlab           :
   google_plus      :
   keybase          :
@@ -103,7 +103,7 @@ author:
   tumblr           :
   twitter          :
   vine             :
-  weibo            :
+  weibo            : 
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
 
