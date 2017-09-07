@@ -99,7 +99,6 @@ author:
   pinterest        :
   soundcloud       :
   stackoverflow    : # "123456/username" (the last part of your profile url, e.g. http://stackoverflow.com/users/123456/username)
-  bilibili_uid     : # ur space url 4 bilibili last part OR uid
   steam            : #"76561198418303564" #(the last part of your profile url, e.g. https://steamcommunity.com/id/steamId/)
   tumblr           :
   twitter          :
@@ -107,7 +106,9 @@ author:
   weibo            :
   xing             :
   youtube          : # "https://youtube.com/c/MichaelRoseDesign"
-
+  #+
+  #+
+  bilibili_uid     : # ur space url 4 bilibili last part OR uid
 
 # Reading Files
 include:
