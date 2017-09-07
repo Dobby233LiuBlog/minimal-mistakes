@@ -154,7 +154,14 @@
           </a>
         </li>
       {% endif %}
-
+      
+      {% if author.bilibili_uid %}
+        <li>
+          <a href="https://space.bilibili.com/{{ author.bilibili_uid }}" itemprop="sameAs">
+            <i class="fa fa-fw fa-stack-overflow" aria-hidden="true"></i> Stackoverflow
+          </a>
+        </li>
+      {% endif %}
       {% if author.lastfm %}
         <li>
           <a href="https://last.fm/user/{{ author.lastfm }}" itemprop="sameAs">
