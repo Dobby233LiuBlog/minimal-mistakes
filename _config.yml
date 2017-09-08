@@ -9,8 +9,8 @@
 locale                   : "zh"
 title                    : "wenyuanliublog"
 title_separator          : "-"
-name                     : "e"
-description              : "te."
+name                     : "none"
+description              : # "te."
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
@@ -65,7 +65,7 @@ og_image                 : "https://avatars1.githubusercontent.com/u/28653235"
 # - https://developers.google.com/structured-data/customize/social-profiles
 social:
   type                   : # Person or Organization (defaults to Person)
-  name                   : # If the user or organization name differs from the site's name
+  name                   : "LiuWenYuan2"
   links: # An array of links to social media profiles
 
 # Analytics
@@ -241,7 +241,7 @@ defaults:
       type: posts
     values:
       layout: single
-      author_profile: false
+      author_profile: true
       read_time: #true
       comments: # true
       share: #true
