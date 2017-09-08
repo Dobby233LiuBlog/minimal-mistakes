@@ -20,5 +20,7 @@ tags:
 ###### 容我恶心一下，呃
 
 > 结束了。
+>
 >       --- [Chara](https://undertale.wikia.com/wiki/Chara)/[Asriel](https://undertale.wikia.com/wiki/Asriel)
+>
 > [](http://undertale.rawr.ws/img/rooms/room_asrieltest.png)
