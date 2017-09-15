@@ -1,5 +1,5 @@
 ---
-title: "UT二周年庆祝！"
+title: "UnderTale二周年庆祝！"
 ---
 
 ![Screenshot_2017-09-15-19-18-17_comp.png](https://i.loli.net/2017/09/15/59bbb7b7c58de.png)
