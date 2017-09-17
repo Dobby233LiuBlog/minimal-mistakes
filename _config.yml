@@ -7,6 +7,8 @@
 
 # Site Settings
 locale                   : "zh"
+# languages              : [ "en", "jp", "zh" ]
+# default_lang           : "_" # Not specifying a language here forces polyglot to generate a en/ subdirectory too (with correct links). See https://github.com/untra/polyglot/issues/60.
 title                    : "wenyuanliublog"
 title_separator          : "-"
 name                     : "none"
@@ -180,12 +182,13 @@ timezone: Asia/Shanghai # http://en.wikipedia.org/wiki/List_of_tz_database_time_
 
 
 # Plugins
-gems:
+plugins:
   - jekyll-paginate
   - jekyll-sitemap
   - jekyll-gist
   - jekyll-feed
   - jemoji
+  - jekyll-polyglot
 
 # mimic GitHub Pages with --safe
 whitelist:
