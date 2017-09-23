@@ -5,7 +5,7 @@
 
 ## 授权
 本作品采用[知识共享署名-非商业性使用-相同方式共享 4.0 国际许可协议](https://creativecommons.org/licenses/by-nc-sa/4.0/)（[简体中文](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh)）进行许可。[协议全文可在此找到](https://github.com/TartaricAcid/Minecraft-Mod-Language-Package/blob/master/LICENSE)。  
-![CC](https://pic3.zhimg.com/39119df78331a72cf1381b7b25650036_b.png)   
+![CC](https://git.io/vdJhT)   
 
 ### <font color="red">如果要提交PR，你必须需要接受此LICENSE</font>     
 
@@ -18,3 +18,5 @@
 感谢玩家`Aemande123`提供了大部分小模组的汉化，对他的努力表示感谢；      
 感谢玩家`3TUSK`（README编写者），`Snownee`，`Sihenzhang`，`CNife`，`DLslime`，`DSLM`，`gloomy_banana`，`yuanjie000`，`loveyanbei`，`ZhuKaihui`，`Uptobillion`，`TehporP`，`forestbat`，`MaxBellc`，`HigZxcvd`，`bxz2311196368`提供部分汉化。        
 感谢`PeakXing`制作的logo。
+
+[](lolololololololol)
