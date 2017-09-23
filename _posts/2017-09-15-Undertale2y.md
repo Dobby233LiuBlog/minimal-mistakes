@@ -12,4 +12,4 @@ title: "UnderTale二周年庆祝！"
 
 还有呢？
 
-<iframe src="https://dobby233liu.github.io/0/DJwko9rXkAIYjxd.mp4" />
+<iframe src="https://dobby233liu.github.io/0/DJwko9rXkAIYjxd.mp4"></iframe>
