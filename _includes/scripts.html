@@ -1,4 +1,9 @@
 <script src="{{ '/assets/js/main.min.js' | absolute_url }}"></script>
 
+<script type="text/javascript">
+ document.getElementById('heimu').addEventListener('keyup', function (){   
+ window.alert(String(document.getElementById('heimu').title));
+                }	)
+</script>
 {% include analytics.html %}
 {% include /comments-providers/scripts.html %}
